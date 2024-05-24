@@ -1,3 +1,3 @@
 from validations import *
 namaste_instance = namasteKart()
-namaste_instance.GetIncomingData() 
+namaste_instance.GetIncomingData()  
