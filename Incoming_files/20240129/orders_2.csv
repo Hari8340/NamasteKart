@@ -1,0 +1,5 @@
+order_id,order_date,product_id,quantity,sales,city
+1,01-01-2024,100,1,50000,Bangalore
+2,01-01-2024,200,2,9000,Mumbai
+3,03-01-2024,200,2,9000,Mumbai
+4,04-01-2024,500,3,30000,Bangalore
